@@ -11,3 +11,5 @@
  - ИК светодиод
  - резисторы
  - переменный резистор (опцилнально)
+
+![PROJECT_PHOTO](https://github.com/alex-anp/NikonIR_TakePhoto/blob/master/photo.jpg)
