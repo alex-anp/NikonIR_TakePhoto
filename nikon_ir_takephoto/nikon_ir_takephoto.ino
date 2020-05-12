@@ -1,4 +1,4 @@
-#define LEDpin 6                // Пин ИК диода
+#define LEDpin 9                // Пин ИК диода
 #define PIN_PHOTO_SENSOR A1     // Пин фоторезистора
 #define PHOTO_SENSOR_VALUE 300  // Пороговое Значение фотодатчика при срабатывании
 #define DELAY_TUNER_PIN A0      // Пин подключения переменного резистора для управления задержкой
